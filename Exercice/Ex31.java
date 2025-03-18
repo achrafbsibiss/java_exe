@@ -15,8 +15,6 @@ class Ex31{
           if( result == 0){
             System.out.println( "this is the paire numbber:" + i );
           }
-            
-
 
         }
     }

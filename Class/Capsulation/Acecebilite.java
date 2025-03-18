@@ -1,7 +1,7 @@
 // so here we will learn the capsulation in java
 // the java capsulation to protect the data and we should ask for it
 // thas why we use the getr and seter
-// in the set method we should do the (this) we tell it's thw current object
+// in the set method we should do the (this) we tell it's the current object
 
 
 class Perso{

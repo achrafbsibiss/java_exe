@@ -1,0 +1,11 @@
+class Execrcice_1 {
+
+  // for this exercice we shouls print hello:
+  public  static void main(String args[]){
+
+    System.out.println("hello");
+
+  }
+
+
+}
