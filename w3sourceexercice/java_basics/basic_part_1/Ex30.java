@@ -34,7 +34,7 @@ public class Ex30 {
 
   public static void convert(boolean validation, String hex){
     int num;
-    Stri ng binary;
+    String binary;
 
     if (validation){
       num = Integer.parseInt(hex, 16);
